@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou Victor Rafael! 👋
 
-<!--
-**DoctorFlin/DoctorFlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia da Computação no Centro Universitário Facens**, interessado em desenvolvimento de software, tecnologia e na criação de soluções práticas.
 
-Here are some ideas to get you started:
+Aqui compartilho meus projetos acadêmicos, experimentos e aplicações pessoais. Estou constantemente aprimorando meus conhecimentos e explorando novas ferramentas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias e conhecimentos
+
+**Fundamentos:** HTML, CSS, JavaScript, Linguagem C e SQL.
+
+**Em desenvolvimento:** TypeScript, React e Angular.
+
+**Ferramentas:** Git, GitHub, VS Code e Vite.
+
+## 🚀 Projeto em destaque
+
+### [Portfólio Pessoal](https://portfolio-victor-rafael.vercel.app/)
+
+Meu portfólio desenvolvido com React, TypeScript e Vite, incluindo design responsivo, temas claro e escuro e suporte a português e inglês.
+
+[Ver código-fonte](https://github.com/DoctorFlin/portfolio-victor-rafael)
+
+## 📫 Onde me encontrar
+
+- [Portfólio](https://portfolio-victor-rafael.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/victor-rafael-soares-otacilio-808b59315/)
